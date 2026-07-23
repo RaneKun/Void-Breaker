@@ -10,8 +10,6 @@
   <img width="810" height="1440" alt="jre Screenshot 2026 07 22 - 16 12 53 06" src="https://github.com/user-attachments/assets/3954b964-c41d-4a7e-a484-6f96876105c8" />
 </div>
 
-> *"10 stages. 10 bosses. Endless Mode."*
-
 ---
 
 ## 🌟 Features

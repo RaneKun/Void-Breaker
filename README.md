@@ -3,16 +3,11 @@
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Pygame](https://img.shields.io/badge/pygame-2.0+-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
-
-
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
 ![Status](https://img.shields.io/badge/status-fully%20playable-brightgreen.svg)
 
-<div align="center">
-  <img width="810" height="1440" alt="jre Screenshot 2026 07 22 - 16 12 53 06" src="https://github.com/user-attachments/assets/3954b964-c41d-4a7e-a484-6f96876105c8" />
-</div>
-
 ---
+<img width="810" height="1440" alt="jre Screenshot 2026 07 22 - 16 12 53 06" src="https://github.com/user-attachments/assets/3954b964-c41d-4a7e-a484-6f96876105c8" />
 
 ## 🌟 Features
 
